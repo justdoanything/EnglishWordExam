@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEnglishTeacher", "HelloEnglishTeacher\HelloEnglishTeacher.csproj", "{46CDBD3B-3EBE-43C3-A357-E24A916E9E22}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HET_installer", "HET_installer\HET_installer.vdproj", "{0F2C46FC-427F-4B1E-A693-7E627AE7C27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CDBD3B-3EBE-43C3-A357-E24A916E9E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CDBD3B-3EBE-43C3-A357-E24A916E9E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CDBD3B-3EBE-43C3-A357-E24A916E9E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CDBD3B-3EBE-43C3-A357-E24A916E9E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2C46FC-427F-4B1E-A693-7E627AE7C27C}.Debug|Any CPU.ActiveCfg = Debug
+		{0F2C46FC-427F-4B1E-A693-7E627AE7C27C}.Debug|Any CPU.Build.0 = Debug
+		{0F2C46FC-427F-4B1E-A693-7E627AE7C27C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A6B7E9D-D052-4A47-B1E7-526243B8524D}
+	EndGlobalSection
+EndGlobal
