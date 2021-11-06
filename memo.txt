@@ -1,0 +1,7 @@
+NuGet Package URL
+https://api.nuget.org/v3/index.json
+
+Git
+git branch <new branch name>
+git checkout <new branch name>
+git push --set-upstream origin <new branch name>
